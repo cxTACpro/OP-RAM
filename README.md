@@ -2,8 +2,7 @@
 
 ![OP-Ram logo](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='80' viewBox='0 0 200 80'%3E%3Crect width='200' height='80' fill='%231e1e1e'/%3E%3Crect x='0' y='0' width='200' height='80' fill='%232d2d2d' rx='10' ry='10'/%3E%3Ctext x='100' y='50' fill='%2300ff7f' text-anchor='middle' font-family='Courier New' font-size='32' dominant-baseline='middle'%3EOP-Ram%3C/text%3E%3C/svg%3E)
 
-A parody Windows utility that "doubles your RAM" with dramatic effect!  
-⚠️ **Completely non-functional** - This is a prank application.
+A Windows utility that "doubles your RAM" with dramatic effect!  
 
 ## Features
 
